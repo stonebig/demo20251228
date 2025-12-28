@@ -5,3 +5,27 @@ channels:
 dependencies:
   - xeus-python
   - ipycanvas
+  - matplotlib
+  - seaborn
+  - plotnine
+  - pandas
+  - statsmodels
+  - scikit-learn
+  - scipy
+  - sqlite
+  - altair
+  - ipympl
+  - ipyleaflet
+  - ipydatagrid
+  - ipycanvas
+  - vega_datasets
+  - plotly
+  - black
+  - xarray
+  - httpx
+  - scikit-image
+  - chart-studio
+  - highs
+  - wppm
+  - duckdb
+  
