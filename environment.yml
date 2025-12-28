@@ -27,5 +27,7 @@ dependencies:
   - chart-studio
   - highs
   - wppm
-  - duckdb
+  - qrcode
+  - python-barcode
+  
   
